@@ -1,0 +1,6 @@
+{
+  "name": "Canada Immigration Pathways — Canada PR Guide 2026",
+  "description": "Mobile-first bilingual (English & Punjabi) Canada PR guide for 2026 with Start Here wizard, eligibility checker, CRS & proof of funds calculators, interactive 11-province PNP map, live draws tracker, 50+ FAQs, fraud warnings, and offline My Plan checklist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
